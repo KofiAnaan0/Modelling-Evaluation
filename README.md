@@ -1,4 +1,4 @@
-# Modelling and Evaluation
+![image](https://github.com/user-attachments/assets/4841d0a5-1fb0-45ab-9d82-cb3f8031d7fd)# Modelling and Evaluation
 
 This section outlines the steps taken for **data sampling**, **model training**, and **model evaluation**. The goal is to train a machine learning model to predict customer churn and evaluate its performance using appropriate metrics.
 
@@ -23,7 +23,7 @@ print(X_test.shape)
 print(y_test.shape)
 ```
 
-![split](assets/)
+![split](assets/shape.JPEG)
 
 ## 2. Model Training
 
@@ -70,7 +70,7 @@ print(f"Precision: {precision}")
 print(f"Recall: {recall}")
 ```
 
-![split](assets/)
+![split](assets/eva.JPEG)
 
 Evaluation Results:
 
@@ -106,6 +106,6 @@ plt.xlabel('Importance')
 plt.show()
 ```
 
-![split](assets/)
+![split](assets/feature.JPEG)
 
 The top features are those that the model relied on the most during training. This gives us a better understanding of which factors contribute most to customer churn predictions.
