@@ -23,7 +23,7 @@ print(X_test.shape)
 print(y_test.shape)
 ```
 
-![split](assets/shape.JPEG)
+![split](assets/shape.JPG)
 
 ## 2. Model Training
 
@@ -70,7 +70,7 @@ print(f"Precision: {precision}")
 print(f"Recall: {recall}")
 ```
 
-![split](assets/eva.JPEG)
+![split](assets/eva.JPG)
 
 Evaluation Results:
 
@@ -106,6 +106,6 @@ plt.xlabel('Importance')
 plt.show()
 ```
 
-![split](assets/feature.JPEG)
+![split](assets/feature.JPG)
 
 The top features are those that the model relied on the most during training. This gives us a better understanding of which factors contribute most to customer churn predictions.
