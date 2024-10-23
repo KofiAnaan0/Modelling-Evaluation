@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4841d0a5-1fb0-45ab-9d82-cb3f8031d7fd)# Modelling and Evaluation
+# Modelling and Evaluation
 
 This section outlines the steps taken for **data sampling**, **model training**, and **model evaluation**. The goal is to train a machine learning model to predict customer churn and evaluate its performance using appropriate metrics.
 
